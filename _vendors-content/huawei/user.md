@@ -2,7 +2,7 @@
 manufacturer:
     - huawei
 
----
+---adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
 
 
 ### App Launch on some EMUI 8, 9 and 10 devices (Huawei P20, Huawei P20 Lite, Huawei Mate 10...)
